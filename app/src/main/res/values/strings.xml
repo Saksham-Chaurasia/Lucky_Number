@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lucky Number</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="lucky_numbers_game">Lucky Numbers Game</string>
+    <string name="enter">Enter</string>
+    <string name="p">p</string>
+    <string name="button">Button</string>
+    <string name="welcome">WELCOME</string>
+    <string name="start">START</string>
+    <string name="max_10_guess_available">Max 10 Guess available</string>
+    <string name="enter_the_guess_number">Enter the Guess number</string>
+    <string name="guess_the_number">Guess the number</string>
+    <string name="don_t_worry_i_sak_help_you_to_get_the_number">Don\'t worry I (Sak) help you to get the number</string>
+    <string name="textview">TextView</string>
+    <string name="enter_the_numer_of_attempts">Enter the numer of attempts</string>
+    <string name="submit">SUBMIT</string>
+    <string name="how_to_play_the_game">How to play the game?</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="submit1">SUBMIT</string>
+    <string name="todo3">TODO</string>
+</resources>
